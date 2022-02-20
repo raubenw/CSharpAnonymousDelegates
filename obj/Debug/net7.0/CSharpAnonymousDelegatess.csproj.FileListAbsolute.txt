@@ -1,0 +1,15 @@
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpAnonymousDelegatess\bin\Debug\net7.0\CSharpAnonymousDelegatess.exe
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpAnonymousDelegatess\bin\Debug\net7.0\CSharpAnonymousDelegatess.deps.json
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpAnonymousDelegatess\bin\Debug\net7.0\CSharpAnonymousDelegatess.runtimeconfig.json
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpAnonymousDelegatess\bin\Debug\net7.0\CSharpAnonymousDelegatess.dll
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpAnonymousDelegatess\bin\Debug\net7.0\CSharpAnonymousDelegatess.pdb
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpAnonymousDelegatess\obj\Debug\net7.0\CSharpAnonymousDelegatess.csproj.AssemblyReference.cache
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpAnonymousDelegatess\obj\Debug\net7.0\CSharpAnonymousDelegatess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpAnonymousDelegatess\obj\Debug\net7.0\CSharpAnonymousDelegatess.AssemblyInfoInputs.cache
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpAnonymousDelegatess\obj\Debug\net7.0\CSharpAnonymousDelegatess.AssemblyInfo.cs
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpAnonymousDelegatess\obj\Debug\net7.0\CSharpAnonymousDelegatess.csproj.CoreCompileInputs.cache
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpAnonymousDelegatess\obj\Debug\net7.0\CSharpAnonymousDelegatess.dll
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpAnonymousDelegatess\obj\Debug\net7.0\refint\CSharpAnonymousDelegatess.dll
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpAnonymousDelegatess\obj\Debug\net7.0\CSharpAnonymousDelegatess.pdb
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpAnonymousDelegatess\obj\Debug\net7.0\CSharpAnonymousDelegatess.genruntimeconfig.cache
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpAnonymousDelegatess\obj\Debug\net7.0\ref\CSharpAnonymousDelegatess.dll
